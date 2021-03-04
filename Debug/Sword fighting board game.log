@@ -1,0 +1,151 @@
+﻿  GameBoard.cpp
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\GameBoard.cpp(2,24): error C2530: 'GameBoard::aTokenTex': references must be initialized
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\GameBoard.cpp(2,24): error C2530: 'GameBoard::dTokenTex': references must be initialized
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\GameBoard.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\GameBoard.cpp(15,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\GameBoard.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\GameBoard.cpp(59,142): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\GameBoard.cpp(59,87): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\GameBoard.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+  Player.cpp
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(20,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(19,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(22,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(21,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(133,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(166,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(167,79): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(167,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(192,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(198,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(221,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(234,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(246,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\Player.cpp(249,20): warning C4018: '<': signed/unsigned mismatch
+  UseCard.cpp
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\UseCard.h(25,2): warning C4091: 'static ': ignored on left of 'UseCard' when no variable is declared
+  main.cpp
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\UseCard.h(25,2): warning C4091: 'static ': ignored on left of 'UseCard' when no variable is declared
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(53,118): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(53,75): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(54,71): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(54,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(56,117): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(56,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(57,55): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(68,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(77,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(79,140): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(79,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(112,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(134,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(135,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(138,63): error C2664: 'void GameBoard::AddToken(Body_Part::Name,int)': cannot convert argument 1 from 'int' to 'Body_Part::Name'
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(138,60): message : Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\GameBoard.h(100,7): message : see declaration of 'GameBoard::AddToken'
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(145,47): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(191,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(193,51): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(196,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(252,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(264,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(276,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(279,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(298,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(303,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(310,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(313,88): warning C4804: '+=': unsafe use of type 'bool' in operation
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(319,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(326,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(336,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(343,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(348,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dr Sam Hyde\source\repos\Sword fighting board game\Sword fighting board game\main.cpp(365,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
